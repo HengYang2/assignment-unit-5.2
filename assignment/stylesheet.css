@@ -1,13 +1,12 @@
-header {
+.banner {
     background-color: darkgreen;
     color: white;
     text-align: center;
 }
 
-main {
+.mainInfo {
     background-color: lightgrey;
     padding: 1em; /* em means: "my parent element's font-size" */
-
 }
 
 body {
